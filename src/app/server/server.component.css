@@ -1,0 +1,16 @@
+.serverCompBtn {
+  display: block;
+  margin: auto;
+  outline: none;
+  width: 100px;
+  -webkit-transition: width 1s;
+  -moz-transition: width 1s;
+  -ms-transition: width 1s;
+  -o-transition: width 1s;
+  transition: width 1s;
+}
+.simpleTransition {
+  background: blue;
+  color: white;
+  width: 200px;
+}
