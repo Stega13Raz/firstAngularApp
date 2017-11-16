@@ -1,0 +1,11 @@
+.warningAlert {
+  color: darkred;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-block;
+}
+.justTextNoWarning {
+  display: inline-block;
+  padding-left: 10px;
+}
